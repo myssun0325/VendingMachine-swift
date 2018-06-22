@@ -63,3 +63,19 @@
 - 어떻게 추상화 할 것인가?
 - 화면에 보여지는 대로 입력을 받을 수 있는 방법에 대해 고민해보기
 - (User or Admin) <-> VendingMachine <-> StockManager <-> Products <-> Beverage의 관계
+
+## Step4 Keyword
+- ObjectIdentifier
+- MetaType을 활용해서 인스턴스화하기
+- MetaType의 배열
+
+## Step5 Keyword
+- 스위프트 린트 적용하기
+
+```
+ Lint
+
+lint는 컴퓨터 프로그래밍에서 의심스럽거나, 에러를 발생하기 쉬운 코드에 표시(flag)를 달아 놓는 것을 말한다. 원래는 C 언어에서 사용하던 용어였으나 지금은 다른 언어에서도 일반적으로 사용된다.
+
+위키백과, 우리 모두의 백과사전.
+```
