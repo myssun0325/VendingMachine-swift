@@ -1,5 +1,15 @@
 # VendingMachine 
 
+> 콘솔 환경에서의 음료자판기를 구현한다. 관리자모드와 사용자모드가 있으며 실제 관리자모드는 재고를 추가하거나 삭제할 수 있고, 유통기한이 지난 음료를 삭제할 수 있다. 사용자 모드에서는 구매를 하기 위해서 금액을 추가할 수 있고 이를 통해 음료수를 구매할 수 있다.
+
+## 구현화면
+- 관리자모드  
+<img src="images/admin.png" height=500>
+
+- 사용자모드  
+<img src="images/user.png" height=500>
+
+
 ## Step1 keyword
 - 프로토콜
 - CustomStringConvertible 프로토콜
